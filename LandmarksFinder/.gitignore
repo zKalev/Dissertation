@@ -1,0 +1,11 @@
+/assets
+/bin
+/gen
+/res
+/libs
+.project
+.settings
+.classpath
+lint.xml
+proquard-project.txt
+project.properties
