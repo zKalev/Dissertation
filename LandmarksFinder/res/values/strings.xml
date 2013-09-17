@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">LandmarksFinder</string>
+
+    <string name="name">Име</string>
+
+    <string name="address">Адрес</string>
+
+    <string name="phon">Телефон</string>
+
+    <string name="photos">Снимки</string>
+
+    <string name="textButton">Снимки</string>
+
+</resources>
