@@ -79,8 +79,6 @@ public class GooglePlaces {
 			request.getUrl().put("reference", reference);
 			request.getUrl().put("sensor", "true");
 			request.getUrl().put("language", "bg");
-			String d=request.execute().parseAsString();
-			Log.d("LLLLOAAAAA SEARCH PLACES", d);
 			PlaceDetails placeDetails = request.execute().parseAs(
 					PlaceDetails.class);
 			return placeDetails;
